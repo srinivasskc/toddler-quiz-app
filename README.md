@@ -2,6 +2,9 @@
 
 A playful Streamlit quiz for young children. Choose a topic, answer simple questions, listen to them read aloud, and explore picture clues. Quiz questions are generated locally with Ollama and Gemma 2B.
 
+[screen-capture (3).webm](https://github.com/user-attachments/assets/bc2c4165-0697-4dbc-bc86-a3c7d1535939)
+
+
 ## Set up Ollama and Gemma 2B
 
 1. Install Ollama from [ollama.com/download](https://ollama.com/download) and start it.
