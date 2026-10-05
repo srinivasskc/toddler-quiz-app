@@ -1,0 +1,7 @@
+.postqode
+venv
+env/
+venv/
+*.mp3
+__pycache__/
+.env
