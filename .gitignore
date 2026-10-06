@@ -5,3 +5,5 @@ venv/
 *.mp3
 __pycache__/
 .env
+**/mcp.json
+.agents/
